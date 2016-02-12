@@ -106,6 +106,18 @@ Pretty, minimal and fast prompt
 theme prompt minimal simple sindresorhus pure
 rafaelrinaldi
 
+pyenv
+https://github.com/daenney/fisherman-pyenv
+Pyenv support plugin
+python pyenv
+daenney
+
+rbenv
+https://github.com/daenney/fisherman-rbenv
+Rbenv support plugin
+ruby rbenv
+daenney
+
 submit
 https://github.com/fishery/submit
 Submit a plugin to the index
