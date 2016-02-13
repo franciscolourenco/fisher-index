@@ -118,17 +118,11 @@ Rbenv support plugin
 ruby rbenv
 daenney
 
-submit
-https://github.com/fishery/submit
-Submit a plugin to the index
-fisherman contrib index plugin register db
+scaffold
+https://github.com/fishery/scaffold
+Scaffold out a fish plugin
+create plugin generator boilerplate fish fisherman
 bucaran
-
-shellder
-https://github.com/simnalamburt/shellder
-Powerline prompt optimized for speed
-theme prompt powerline speed
-simnalamburt
 
 scorphish
 https://github.com/oh-my-fish/theme-scorphish
@@ -142,10 +136,22 @@ Fantastic Sparkline Generator
 chart tool report sparkline graph
 bucaran
 
-scaffold
-https://github.com/fishery/scaffold
-Scaffold out a fish plugin
-create plugin generator boilerplate fish fisherman
+shellder
+https://github.com/simnalamburt/shellder
+Powerline prompt optimized for speed
+theme prompt powerline speed
+simnalamburt
+
+spin
+https://github.com/fishery/spin
+Run a job and display a spinner
+spinner progress wait percent job background
+bucaran
+
+submit
+https://github.com/fishery/submit
+Submit a plugin to the index
+fisherman contrib index plugin register db
 bucaran
 
 tab
