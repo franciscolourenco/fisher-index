@@ -165,9 +165,3 @@ https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
 omf window console title display customize titlebar
 derekstavis
-
-vi-mode
-https://github.com/oh-my-fish/plugin-vi-mode
-Basic vi key bindings emulation
-omf vi vim mode key bindings emulate python
-syl20bnr
