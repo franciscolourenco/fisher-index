@@ -144,7 +144,7 @@ simnalamburt
 
 spin
 https://github.com/fishery/spin
-Run a job and display a spinner
+Spin a background job
 spinner progress wait percent job background
 bucaran
 
