@@ -34,6 +34,12 @@ Flat, Git-aware, left and right prompt
 omf theme prompt flat git right git
 inxilpro
 
+clownfish
+https://github.com/dorentus/clownfish
+Git-aware prompt theme with a clownfish
+theme prompt multiline git fortune lolcat
+dorentus
+
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
@@ -171,8 +177,3 @@ https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
 omf window console title display customize titlebar
 derekstavis
-
-clownfish
-https://github.com/dorentus/clownfish
-Git-aware prompt theme with a clownfish
-theme prompt multiline git fortune lolcat
