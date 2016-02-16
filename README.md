@@ -31,7 +31,7 @@ You can also submit a new plugin manually and create a pull request.
 ```fish
 git clone https://github.com/fisherman/fisher-index
 cd index
-echo "$name\n$url\n$info\n$author\n$tags\n\n" >> index
+echo "$name\n$url\n$info\n$tags\n$author\n\n" >> index
 git push origin master
 ```
 
