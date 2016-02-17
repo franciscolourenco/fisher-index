@@ -113,13 +113,13 @@ theme prompt minimal simple sindresorhus pure
 rafaelrinaldi
 
 pyenv
-https://github.com/daenney/fisherman-pyenv
+https://github.com/daenney/fish-pyenv
 Pyenv support plugin
 python pyenv
 daenney
 
 rbenv
-https://github.com/daenney/fisherman-rbenv
+https://github.com/daenney/fish-rbenv
 Rbenv support plugin
 ruby rbenv
 daenney
