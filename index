@@ -40,6 +40,12 @@ Git-aware prompt theme with a clownfish
 theme prompt multiline git fortune lolcat
 dorentus
 
+debug
+https://github.com/fishery/debug
+Conditional debug logger
+debug profile instrument time bug logger
+bucaran
+
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
