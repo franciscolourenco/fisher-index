@@ -25,7 +25,7 @@ edc
 bobthefish
 https://github.com/oh-my-fish/theme-bobthefish
 Powerline, Git-aware prompt optimized for awesome
-omf theme prompt powerline yellow green red glyphs git bob
+omf theme prompt powerline git
 bobthecow
 
 cmorrell
@@ -73,7 +73,37 @@ bucaran
 git-branch-name
 https://github.com/fishery/git-branch-name
 Get the current branch in a Git repository
-git status info function compatibility
+git status info function
+bucaran
+
+git-is-repo
+https://github.com/fishery/git-is-repo
+Test if the current directory is a Git repository
+git status info function 
+bucaran
+
+git-is-dirty
+https://github.com/fishery/git-is-dirty
+Test if there are changes not staged for commit
+git status info function dirty
+bucaran
+
+git-is-stashed
+https://github.com/fishery/git-is-stashed
+Test if there are changes in the stash
+git status info function stash
+bucaran
+
+git-is-touched
+https://github.com/fishery/git-is-touched
+Test if there are any changes in a working tree
+git status info function 
+bucaran
+
+git-is-staged
+https://github.com/fishery/git-is-staged
+Test if there are changes staged for commit
+git status info function stage
 bucaran
 
 git-status
