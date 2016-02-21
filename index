@@ -96,7 +96,7 @@ bucaran
 
 git-is-touched
 https://github.com/fishery/git-is-touched
-Test if there are any changes in a working tree
+Test if there are any changes in the working tree
 git status info function 
 bucaran
 
