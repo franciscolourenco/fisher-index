@@ -7,37 +7,37 @@ hutenosa
 autoinit
 https://github.com/fishery/autoinit
 Add init_* event support
-init emit events omf source
+init emit events oh-my-fish source
 bucaran
 
 available
 https://github.com/fishery/available
 Test if a function or command is available
-test status legacy compat
+test status legacy oh-my-fish
 bucaran
 
 bass
 https://github.com/edc/bass
 Compatibility layer for bash utilities
-bash fish script wrapper env
+bash script wrapper env
 edc
 
 bobthefish
 https://github.com/oh-my-fish/theme-bobthefish
 Powerline, Git-aware prompt optimized for awesome
-omf theme prompt powerline git
+prompt powerline git
 bobthecow
 
 cmorrell
 https://github.com/oh-my-fish/theme-cmorrell.com
 Flat, Git-aware, left and right prompt
-omf theme prompt flat git right
+prompt flat git right
 inxilpro
 
 clownfish
 https://github.com/dorentus/clownfish
-Git-aware prompt theme with a clownfish
-theme prompt multiline git lolcat
+Git-aware prompt with a clownfish
+prompt multiline git lolcat
 dorentus
 
 debug
@@ -49,7 +49,7 @@ bucaran
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
-omf posix error code
+posix error code
 derekstavis
 
 fishtape
@@ -61,7 +61,7 @@ bucaran
 flash
 https://github.com/fishery/flash
 Flash-inspired, thunder red and yellow theme
-theme prompt flash superhero thunder
+prompt flash superhero thunder
 bucaran
 
 get
@@ -109,37 +109,37 @@ bucaran
 hulk
 https://github.com/fishery/hulk
 Hulk-inspired, powerful green theme
-theme prompt hulk superhero
+prompt hulk superhero
 bucaran
 
 lambda
 https://github.com/hasanozgan/theme-lambda
 Multiline, git-ware lambda prompt
-theme prompt multiline git lambda
+prompt multiline git lambda
 hasanozgan
 
 legacy
 https://github.com/fishery/legacy
 Compatibility with Oh My Fish!
-omf compat legacy
+compat legacy
 bucaran
 
 lolfish
 https://github.com/er0/lolfish
 Tmux-aware, rainbow gradient prompt
-theme prompt tmux git colorful
+prompt tmux git colorful
 er0
 
 nelsonjchen
 https://github.com/nelsonjchen/omf-theme-nelsonjchen
 Git-aware, colorful re5et-inspired theme
-theme prompt git tmux
+prompt git tmux
 nelsonjchen
 
 pure
 https://github.com/rafaelrinaldi/pure
 Pretty, minimal and fast prompt
-theme prompt minimal simple
+prompt minimal simple
 rafaelrinaldi
 
 pyenv
@@ -163,25 +163,25 @@ bucaran
 scorphish
 https://github.com/oh-my-fish/theme-scorphish
 Hot, angle bracket-based multiline prompt
-omf theme prompt multiline git
+prompt multiline git
 scorphus
 
 shark
 https://github.com/fishery/shark
 Fantastic Sparkline Generator
-chart tool report sparkline graph
+chart tool sparkline graph
 bucaran
 
 shellder
 https://github.com/simnalamburt/shellder
 Powerline prompt optimized for speed
-theme prompt powerline speed
+prompt powerline speed
 simnalamburt
 
 spin
 https://github.com/fishery/spin
 Spin a background job
-spinner progress wait percent job background
+spinner progress wait job background
 bucaran
 
 submit
@@ -193,17 +193,17 @@ bucaran
 tab
 https://github.com/oh-my-fish/plugin-tab
 Open new tabs from the command line
-omf tab terminal
+tab terminal
 bobthecow
 
 technicolor
 https://github.com/oh-my-fish/plugin-technicolor
 Text colorization declarative DSL
-omf color ansi styles text
+color ansi styles text
 derekstavis
 
 title
 https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
-omf window terminal title titlebar
+window terminal title titlebar
 derekstavis
