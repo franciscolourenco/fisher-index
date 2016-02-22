@@ -79,7 +79,7 @@ bucaran
 git-is-repo
 https://github.com/fishery/git-is-repo
 Test if the current directory is a Git repository
-git status info function 
+git status info function
 bucaran
 
 git-is-dirty
@@ -97,7 +97,7 @@ bucaran
 git-is-touched
 https://github.com/fishery/git-is-touched
 Test if there are any changes in the working tree
-git status info function 
+git status info function
 bucaran
 
 git-is-staged
