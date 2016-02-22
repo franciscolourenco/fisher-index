@@ -60,7 +60,7 @@ bucaran
 
 flash
 https://github.com/fishery/flash
-Flash-inspired, thunder red and yellow theme
+Flash-inspired, thunder prompt
 prompt flash superhero thunder
 bucaran
 
@@ -108,7 +108,7 @@ bucaran
 
 hulk
 https://github.com/fishery/hulk
-Hulk-inspired, powerful green theme
+Hulk-inspired, powerful green prompt
 prompt hulk superhero
 bucaran
 
@@ -129,12 +129,6 @@ https://github.com/er0/lolfish
 Tmux-aware, rainbow gradient prompt
 prompt tmux git colorful
 er0
-
-nelsonjchen
-https://github.com/nelsonjchen/omf-theme-nelsonjchen
-Git-aware, colorful re5et-inspired theme
-prompt git tmux
-nelsonjchen
 
 pure
 https://github.com/rafaelrinaldi/pure
