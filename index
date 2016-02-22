@@ -10,6 +10,12 @@ Add init_* event support
 init emit events oh-my-fish source
 bucaran
 
+autojump
+https://github.com/jethrokuan/autojump
+Clean autojump loading support
+autojump j cd search
+jethrokuan
+
 available
 https://github.com/fishery/available
 Test if a function or command is available
@@ -63,6 +69,12 @@ https://github.com/fishery/flash
 Flash-inspired, thunder prompt
 prompt flash superhero thunder
 bucaran
+
+fzf
+https://github.com/jethrokuan/fzf
+Efficient keybindings for fzf
+fzf cd find search fuzzy
+jethrokuan
 
 get
 https://github.com/fishery/get
