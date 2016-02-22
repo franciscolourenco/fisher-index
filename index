@@ -12,14 +12,14 @@ bucaran
 
 available
 https://github.com/fishery/available
-Check if a function or command is available
-check test status clean type callable legacy compatibility
+Test if a function or command is available
+test status legacy compat
 bucaran
 
 bass
 https://github.com/edc/bass
 Compatibility layer for bash utilities
-tool bash fish script wrapper env
+bash fish script wrapper env
 edc
 
 bobthefish
@@ -31,37 +31,37 @@ bobthecow
 cmorrell
 https://github.com/oh-my-fish/theme-cmorrell.com
 Flat, Git-aware, left and right prompt
-omf theme prompt flat git right git
+omf theme prompt flat git right
 inxilpro
 
 clownfish
 https://github.com/dorentus/clownfish
 Git-aware prompt theme with a clownfish
-theme prompt multiline git fortune lolcat
+theme prompt multiline git lolcat
 dorentus
 
 debug
 https://github.com/fishery/debug
 Conditional debug logger
-debug profile instrument time bug logger
+debug profile instrument time log
 bucaran
 
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
-omf posix errno strerror einval error code enavail
+omf posix error code
 derekstavis
 
 fishtape
 https://github.com/fishery/fishtape
 TAP producer and test harness
-test tool harness tap unit-testing
+test tool harness tap unit-test
 bucaran
 
 flash
 https://github.com/fishery/flash
 Flash-inspired, thunder red and yellow theme
-theme prompt flash dc superhero red yellow thunder
+theme prompt flash superhero thunder
 bucaran
 
 get
@@ -106,16 +106,10 @@ Test if there are changes staged for commit
 git status info function stage
 bucaran
 
-git-status
-https://github.com/fishery/git-status
-Git status query functions
-git status info function compatibility
-bucaran
-
 hulk
 https://github.com/fishery/hulk
 Hulk-inspired, powerful green theme
-theme prompt hulk marvel superhero green purple fist
+theme prompt hulk superhero
 bucaran
 
 lambda
@@ -127,25 +121,25 @@ hasanozgan
 legacy
 https://github.com/fishery/legacy
 Compatibility with Oh My Fish!
-omf compatibility legacy
+omf compat legacy
 bucaran
 
 lolfish
 https://github.com/er0/lolfish
 Tmux-aware, rainbow gradient prompt
-theme prompt tmux git rainbow multicolor color
+theme prompt tmux git colorful
 er0
 
 nelsonjchen
 https://github.com/nelsonjchen/omf-theme-nelsonjchen
 Git-aware, colorful re5et-inspired theme
-theme prompt git tmux 12-hour omz re5et nelsonjchen
+theme prompt git tmux
 nelsonjchen
 
 pure
 https://github.com/rafaelrinaldi/pure
 Pretty, minimal and fast prompt
-theme prompt minimal simple sindresorhus pure
+theme prompt minimal simple
 rafaelrinaldi
 
 pyenv
@@ -163,13 +157,13 @@ daenney
 scaffold
 https://github.com/fishery/scaffold
 Scaffold out a fish plugin
-create plugin generator boilerplate fish fisherman
+create plugin generator boilerplate
 bucaran
 
 scorphish
 https://github.com/oh-my-fish/theme-scorphish
 Hot, angle bracket-based multiline prompt
-omf theme prompt multiline git angle
+omf theme prompt multiline git
 scorphus
 
 shark
@@ -193,23 +187,23 @@ bucaran
 submit
 https://github.com/fishery/submit
 Submit a plugin to the index
-fisherman contrib index plugin register db
+index plugin register
 bucaran
 
 tab
 https://github.com/oh-my-fish/plugin-tab
 Open new tabs from the command line
-omf tab window terminal iterm console tool command
+omf tab terminal
 bobthecow
 
 technicolor
 https://github.com/oh-my-fish/plugin-technicolor
 Text colorization declarative DSL
-omf color ansi set_color styles text
+omf color ansi styles text
 derekstavis
 
 title
 https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
-omf window console title display customize titlebar
+omf window terminal title titlebar
 derekstavis
