@@ -13,7 +13,7 @@ bucaran
 available
 https://github.com/fishery/available
 Test if a function or command is available
-test status legacy oh-my-fish
+test status legacy
 bucaran
 
 bass
