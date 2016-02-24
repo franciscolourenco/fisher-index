@@ -84,13 +84,13 @@ bucaran
 
 git-branch-name
 https://github.com/fishery/git-branch-name
-Get the current branch in a Git repository
+Get the name of the current Git branch
 git status info function
 bucaran
 
 git-is-repo
 https://github.com/fishery/git-is-repo
-Test if the current directory is a Git repository
+Test if the current directory is a Git repo 
 git status info function
 bucaran
 
@@ -108,7 +108,7 @@ bucaran
 
 git-is-touched
 https://github.com/fishery/git-is-touched
-Test if there are any changes in the working tree
+Test if there are changes in the working tree
 git status info function
 bucaran
 
