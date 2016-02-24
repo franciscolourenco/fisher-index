@@ -30,13 +30,13 @@ edc
 
 bobthefish
 https://github.com/oh-my-fish/theme-bobthefish
-Powerline, Git-aware prompt optimized for awesome
+Powerline, Git prompt optimized for awesome
 prompt powerline git
 bobthecow
 
 cmorrell
 https://github.com/oh-my-fish/theme-cmorrell.com
-Flat, Git-aware, left and right prompt
+Flat, Git, left and right prompt
 prompt flat git right
 inxilpro
 
