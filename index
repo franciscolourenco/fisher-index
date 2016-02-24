@@ -13,7 +13,7 @@ bucaran
 autojump
 https://github.com/jethrokuan/fish-autojump
 Clean autojump loading support
-autojump j cd search
+j cd
 jethrokuan
 
 available
@@ -73,7 +73,7 @@ bucaran
 fzf
 https://github.com/jethrokuan/fish-fzf
 Efficient keybindings for fzf
-fzf cd find search fuzzy
+fzf cd find fuzzy
 jethrokuan
 
 get
