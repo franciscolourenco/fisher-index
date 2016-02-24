@@ -11,7 +11,7 @@ init emit events oh-my-fish source
 bucaran
 
 autojump
-https://github.com/jethrokuan/autojump
+https://github.com/jethrokuan/fish-autojump
 Clean autojump loading support
 autojump j cd search
 jethrokuan
@@ -71,7 +71,7 @@ prompt flash superhero thunder
 bucaran
 
 fzf
-https://github.com/jethrokuan/fzf
+https://github.com/jethrokuan/fish-fzf
 Efficient keybindings for fzf
 fzf cd find search fuzzy
 jethrokuan
