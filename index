@@ -60,8 +60,8 @@ derekstavis
 
 fishtape
 https://github.com/fishery/fishtape
-TAP producer and test harness
-test tool harness tap unit-test
+TAP producing test runner
+test runner harness tap
 bucaran
 
 flash
@@ -79,7 +79,7 @@ jethrokuan
 get
 https://github.com/fishery/get
 Press any key to continue
-stty read line ui cli key character
+prompt read line cli key
 bucaran
 
 git-branch-name
@@ -175,7 +175,7 @@ scorphus
 shark
 https://github.com/fishery/shark
 Fantastic Sparkline Generator
-chart tool sparkline graph
+chart sparkline graph
 bucaran
 
 shellder
