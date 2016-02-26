@@ -6,7 +6,7 @@ hutenosa
 
 autoinit
 https://github.com/fishery/autoinit
-Add init_* event support
+Add init event support
 init emit events oh-my-fish source
 bucaran
 
@@ -90,7 +90,7 @@ bucaran
 
 git-is-repo
 https://github.com/fishery/git-is-repo
-Test if the current directory is a Git repo 
+Test if the current directory is a Git repo
 git status info function
 bucaran
 
