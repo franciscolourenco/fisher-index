@@ -219,3 +219,9 @@ https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
 window terminal title titlebar
 derekstavis
+
+z
+https://github.com/fishery/fish-z
+Pure-fish z directory jumping
+z search cd jump
+jethrokuan
