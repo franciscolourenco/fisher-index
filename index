@@ -154,6 +154,12 @@ Tmux-aware, rainbow gradient prompt
 prompt tmux git colorful
 er0
 
+narwhal
+https://github.com/0rax/narwhal/
+Simple docker wrapper (docker, docker-machine & docker-compose)
+docker docker-machine docker-compose
+0rax
+
 pure
 https://github.com/rafaelrinaldi/pure
 Pretty, minimal and fast prompt
