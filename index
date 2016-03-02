@@ -156,7 +156,7 @@ er0
 
 narwhal
 https://github.com/0rax/narwhal/
-Simple docker wrapper (docker, docker-machine & docker-compose)
+Simple docker wrapper
 docker docker-machine docker-compose
 0rax
 
