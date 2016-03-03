@@ -40,17 +40,17 @@ Powerline, Git prompt optimized for awesome
 prompt powerline git
 bobthecow
 
-cmorrell
-https://github.com/oh-my-fish/theme-cmorrell.com
-Flat, Git, left and right prompt
-prompt flat git right
-inxilpro
-
 clownfish
 https://github.com/dorentus/clownfish
 Git-aware prompt with a clownfish
 prompt multiline git lolcat
 dorentus
+
+cmorrell
+https://github.com/oh-my-fish/theme-cmorrell.com
+Flat, Git, left and right prompt
+prompt flat git right
+inxilpro
 
 debug
 https://github.com/fishery/debug
@@ -94,16 +94,22 @@ Get the name of the current Git branch
 git status info function
 bucaran
 
+git-is-dirty
+https://github.com/fishery/git-is-dirty
+Test if there are changes not staged for commit
+git status info function dirty
+bucaran
+
 git-is-repo
 https://github.com/fishery/git-is-repo
 Test if the current directory is a Git repo
 git status info function
 bucaran
 
-git-is-dirty
-https://github.com/fishery/git-is-dirty
-Test if there are changes not staged for commit
-git status info function dirty
+git-is-staged
+https://github.com/fishery/git-is-staged
+Test if there are changes staged for commit
+git status info function stage
 bucaran
 
 git-is-stashed
@@ -118,12 +124,6 @@ Test if there are changes in the working tree
 git status info function
 bucaran
 
-git-is-staged
-https://github.com/fishery/git-is-staged
-Test if there are changes staged for commit
-git status info function stage
-bucaran
-
 hash
 https://github.com/oh-my-fish/plugin-hash
 Compute string digests
@@ -134,6 +134,12 @@ hulk
 https://github.com/fishery/hulk
 Hulk-inspired, powerful green prompt
 prompt hulk superhero
+bucaran
+
+krusty
+https://github.com/bucaran/krusty
+the krusty plugin
+a b c
 bucaran
 
 lambda
