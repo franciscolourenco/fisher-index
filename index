@@ -28,17 +28,17 @@ Compatibility layer for bash utilities
 bash script wrapper env
 edc
 
-bira
-https://github.com/oh-my-fish/theme-bira
-Informative git theme based in bira
-prompt git bira ruby
-bpinto
-
 bd
 https://github.com/0rax/fish-bd
 Quickly go back to a parent directory
 cd bd path
 0rax
+
+bira
+https://github.com/oh-my-fish/theme-bira
+Informative git theme based in bira
+prompt git bira ruby
+bpinto
 
 bobthefish
 https://github.com/oh-my-fish/theme-bobthefish
@@ -220,6 +220,12 @@ Hot, angle bracket-based multiline prompt
 prompt multiline git
 scorphus
 
+segment
+https://github.com/fishery/segment
+Powerline prompt builder
+prompt powerline segment
+bucaran
+
 shark
 https://github.com/fishery/shark
 Fantastic Sparkline Generator
@@ -262,14 +268,14 @@ Change the tab/window title string
 window terminal title titlebar
 derekstavis
 
-zish
-https://github.com/oh-my-fish/theme-zish
-Zhishen Wen's simple fun theme
-prompt git zish
-wzhishen
-
 z
 https://github.com/fishery/fish-z
 Pure-fish z directory jumping
 z search cd jump
 jethrokuan
+
+zish
+https://github.com/oh-my-fish/theme-zish
+Zhishen Wen's simple fun theme
+prompt git zish
+wzhishen
