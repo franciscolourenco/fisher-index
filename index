@@ -237,3 +237,39 @@ https://github.com/fishery/fish-z
 Pure-fish z directory jumping
 z search cd jump
 jethrokuan
+
+chain
+https://github.com/oh-my-fish/theme-chain
+Classy theme composed of information chains
+prompt git chain
+coderstephen
+
+mars
+https://github.com/oh-my-fish/theme-mars
+Git-aware, simple martian theme
+prompt git mars
+mvader
+
+bira
+https://github.com/oh-my-fish/theme-bira
+Informative git theme based in bira
+prompt git bira ruby
+bpinto
+
+redsnapper
+https://github.com/oh-my-fish/theme-red-snapper
+Git-aware, playful theme with a pet fish
+prompt git pet
+zuraguerra
+
+zish
+https://github.com/oh-my-fish/theme-zish
+Zhishen Wen's simple fun theme
+prompt git zish
+wzhishen
+
+robbyrussell
+https://github.com/oh-my-fish/theme-robbyrussell
+The original Oh My Zsh theme for fish
+prompt git fish robbyrussell
+robbyrussell
