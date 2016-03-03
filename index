@@ -29,7 +29,7 @@ bash script wrapper env
 edc
 
 bd
-https://github.com/0rax/fish-bd/
+https://github.com/0rax/fish-bd
 Quickly go back to a parent directory
 cd bd path
 0rax
@@ -155,7 +155,7 @@ prompt tmux git colorful
 er0
 
 narwhal
-https://github.com/0rax/narwhal/
+https://github.com/0rax/narwhal
 Simple docker wrapper
 docker docker-machine docker-compose
 0rax
