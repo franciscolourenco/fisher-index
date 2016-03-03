@@ -28,6 +28,12 @@ Compatibility layer for bash utilities
 bash script wrapper env
 edc
 
+bira
+https://github.com/oh-my-fish/theme-bira
+Informative git theme based in bira
+prompt git bira ruby
+bpinto
+
 bd
 https://github.com/0rax/fish-bd
 Quickly go back to a parent directory
@@ -39,6 +45,12 @@ https://github.com/oh-my-fish/theme-bobthefish
 Powerline, Git prompt optimized for awesome
 prompt powerline git
 bobthecow
+
+chain
+https://github.com/oh-my-fish/theme-chain
+Classy theme composed of information chains
+prompt git chain
+coderstephen
 
 clownfish
 https://github.com/dorentus/clownfish
@@ -154,6 +166,12 @@ Tmux-aware, rainbow gradient prompt
 prompt tmux git colorful
 er0
 
+mars
+https://github.com/oh-my-fish/theme-mars
+Git-aware, simple martian theme
+prompt git mars
+mvader
+
 narwhal
 https://github.com/0rax/narwhal
 Simple docker wrapper
@@ -177,6 +195,18 @@ https://github.com/daenney/fish-rbenv
 Rbenv support plugin
 ruby rbenv
 daenney
+
+redsnapper
+https://github.com/oh-my-fish/theme-red-snapper
+Git-aware, playful theme for fish lovers
+prompt git pet
+zuraguerra
+
+robbyrussell
+https://github.com/oh-my-fish/theme-robbyrussell
+The original zsh theme ported to fish
+prompt git fish robbyrussell
+robbyrussell
 
 scaffold
 https://github.com/fishery/scaffold
@@ -232,44 +262,14 @@ Change the tab/window title string
 window terminal title titlebar
 derekstavis
 
-z
-https://github.com/fishery/fish-z
-Pure-fish z directory jumping
-z search cd jump
-jethrokuan
-
-chain
-https://github.com/oh-my-fish/theme-chain
-Classy theme composed of information chains
-prompt git chain
-coderstephen
-
-mars
-https://github.com/oh-my-fish/theme-mars
-Git-aware, simple martian theme
-prompt git mars
-mvader
-
-bira
-https://github.com/oh-my-fish/theme-bira
-Informative git theme based in bira
-prompt git bira ruby
-bpinto
-
-redsnapper
-https://github.com/oh-my-fish/theme-red-snapper
-Git-aware, playful theme with a pet fish
-prompt git pet
-zuraguerra
-
 zish
 https://github.com/oh-my-fish/theme-zish
 Zhishen Wen's simple fun theme
 prompt git zish
 wzhishen
 
-robbyrussell
-https://github.com/oh-my-fish/theme-robbyrussell
-The original Oh My Zsh theme for fish
-prompt git fish robbyrussell
-robbyrussell
+z
+https://github.com/fishery/fish-z
+Pure-fish z directory jumping
+z search cd jump
+jethrokuan
