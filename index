@@ -106,6 +106,36 @@ Collection of git utilities
 git status info function
 bucaran
 
+git-is-dirty
+https://github.com/fishery/git-is-dirty
+Test if there are changes not staged for commit
+git status info function dirty
+bucaran
+
+git-is-repo
+https://github.com/fishery/git-is-repo
+Test if the current directory is a Git repo
+git status info function
+bucaran
+
+git-is-staged
+https://github.com/fishery/git-is-staged
+Test if there are changes staged for commit
+git status info function stage
+bucaran
+
+git-is-stashed
+https://github.com/fishery/git-is-stashed
+Test if there are changes in the stash
+git status info function stash
+bucaran
+
+git-is-touched
+https://github.com/fishery/git-is-touched
+Test if there are changes in the working tree
+git status info function
+bucaran
+
 hash
 https://github.com/oh-my-fish/plugin-hash
 Compute string digests
