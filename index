@@ -285,3 +285,27 @@ https://github.com/oh-my-fish/theme-zish
 Zhishen Wen's simple fun theme
 prompt git zish
 wzhishen
+
+grc
+https://github.com/oh-my-fish/plugin-grc
+grc colorizer for various commands
+grc color wrapper
+tannhuber
+
+fasd
+https://github.com/oh-my-fish/plugin-fasd
+fasd integration for fish
+fasd jump cd z
+simnalamburt
+
+vscode
+https://github.com/oh-my-fish/plugin-vscode
+Visual Studio Code integration for fish
+ide vscode editor
+mathiasvr
+
+thefuck
+https://github.com/oh-my-fish/plugin-thefuck
+thefuck integration for fish
+cli thefuck correct
+scorphus
