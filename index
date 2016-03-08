@@ -106,6 +106,12 @@ Press any key to continue
 prompt read line cli key
 bucaran
 
+git-branch-name
+https://github.com/fishery/git-branch-name
+Get the name of the current Git branch
+git status info branch
+bucaran
+
 git-is-dirty
 https://github.com/fishery/git-is-dirty
 Test if there are changes not staged for commit
