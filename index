@@ -10,12 +10,6 @@ Clean autojump loading support
 j cd
 jethrokuan
 
-available
-https://github.com/fishery/available
-Test if a function or command is available
-test status legacy
-bucaran
-
 bass
 https://github.com/edc/bass
 Compatibility layer for bash utilities
