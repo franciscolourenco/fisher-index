@@ -4,12 +4,6 @@ Tree-based autoenv
 env autoenv source autoenvfish cd set
 hutenosa
 
-autoinit
-https://github.com/fishery/autoinit
-Add init event support
-init emit events oh-my-fish source
-bucaran
-
 autojump
 https://github.com/jethrokuan/fish-autojump
 Clean autojump loading support
@@ -177,12 +171,6 @@ https://github.com/hasanozgan/theme-lambda
 Multiline, git-ware lambda prompt
 prompt multiline git lambda
 hasanozgan
-
-legacy
-https://github.com/fishery/legacy
-Compatibility with Oh My Fish!
-compat legacy
-bucaran
 
 lolfish
 https://github.com/er0/lolfish
