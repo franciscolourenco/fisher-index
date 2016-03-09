@@ -303,3 +303,9 @@ https://github.com/oh-my-fish/theme-zish
 Zhishen Wen's simple fun theme
 prompt git zish
 wzhishen
+
+vibrant
+https://github.com/derhuerst/vibrant
+Pretty, minimal, git-centric prompt
+prompt git simple
+derhuerst
