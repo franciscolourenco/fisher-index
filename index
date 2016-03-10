@@ -244,6 +244,12 @@ Powerline prompt builder
 prompt powerline segment
 bucaran
 
+sektor
+https://github.com/fishery/sektor
+Mortal prompt inspired by Sektor
+prompt mortal-kombat powerline
+bucaran
+
 shark
 https://github.com/fishery/shark
 Fantastic Sparkline Generator
