@@ -106,6 +106,12 @@ Test if there are changes not staged for commit
 git status info function dirty
 bucaran
 
+git-is-empty
+https://github.com/fishery/git-is-empty
+Test if a repository is empty
+git status util
+bucaran
+
 git-is-repo
 https://github.com/fishery/git-is-repo
 Test if the current directory is a Git repo
@@ -286,6 +292,12 @@ Change the tab/window title string
 window terminal title titlebar
 derekstavis
 
+vibrant
+https://github.com/derhuerst/vibrant
+Pretty, minimal, git-centric prompt
+prompt git simple
+derhuerst
+
 z
 https://github.com/fishery/fish-z
 Pure-fish z directory jumping
@@ -303,9 +315,3 @@ https://github.com/oh-my-fish/theme-zish
 Zhishen Wen's simple fun theme
 prompt git zish
 wzhishen
-
-vibrant
-https://github.com/derhuerst/vibrant
-Pretty, minimal, git-centric prompt
-prompt git simple
-derhuerst
