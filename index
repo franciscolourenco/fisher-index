@@ -160,6 +160,12 @@ Hulk-inspired, powerful green prompt
 prompt hulk superhero
 bucaran
 
+humanize_time
+https://github.com/fishery/humanize_time
+Humanize a time interval for display.
+time util human
+bucaran
+
 joker
 https://github.com/fishery/joker
 Crazy prompt inspired by the Joker
