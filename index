@@ -136,10 +136,10 @@ Test if there are changes in the working tree
 git status info function
 bucaran
 
-git-util
-https://github.com/fishery/git-util
+git_util
+https://github.com/fishery/git_util
 Collection of git utilities
-git status info function
+git status info
 bucaran
 
 grc
