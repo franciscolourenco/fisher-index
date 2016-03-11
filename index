@@ -58,6 +58,12 @@ Conditional debug logger
 debug profile instrument time log
 bucaran
 
+eco
+https://github.com/fishery/eco
+Ecological, ecominimal prompt
+git minimal
+bucaran
+
 errno
 https://github.com/oh-my-fish/plugin-errno
 POSIX error code/string translator
