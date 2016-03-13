@@ -31,25 +31,25 @@ bpinto
 bobthefish
 https://github.com/oh-my-fish/theme-bobthefish
 Powerline, Git prompt optimized for awesome
-prompt powerline git
+prompt powerline
 bobthecow
 
 chain
 https://github.com/oh-my-fish/theme-chain
 Classy theme composed of information chains
-prompt git chain
+prompt chain
 coderstephen
 
 clownfish
 https://github.com/dorentus/clownfish
 Git-aware prompt with a clownfish
-prompt multiline git lolcat
+prompt multiline lolcat
 dorentus
 
 cmorrell
 https://github.com/oh-my-fish/theme-cmorrell.com
 Flat, Git, left and right prompt
-prompt flat git right
+prompt flat right
 inxilpro
 
 debug
@@ -187,13 +187,13 @@ hasanozgan
 lolfish
 https://github.com/er0/lolfish
 Tmux-aware, rainbow gradient prompt
-prompt tmux git colorful
+prompt tmux colorful
 er0
 
 mars
 https://github.com/oh-my-fish/theme-mars
 Git-aware, simple martian theme
-prompt git mars
+prompt mars
 mvader
 
 masenko
@@ -229,13 +229,13 @@ daenney
 redsnapper
 https://github.com/oh-my-fish/theme-red-snapper
 Git-aware, playful theme for fish lovers
-prompt git pet
+prompt pet simple
 zuraguerra
 
 robbyrussell
 https://github.com/oh-my-fish/theme-robbyrussell
 The original zsh theme ported to fish
-prompt git fish robbyrussell
+prompt robbyrussell simple
 robbyrussell
 
 scaffold
@@ -313,7 +313,7 @@ derekstavis
 vibrant
 https://github.com/derhuerst/vibrant
 Pretty, minimal, git-centric prompt
-prompt git simple
+prompt simple
 derhuerst
 
 z
@@ -331,5 +331,5 @@ bucaran
 zish
 https://github.com/oh-my-fish/theme-zish
 Zhishen Wen's simple fun theme
-prompt git zish
+prompt zish
 wzhishen
