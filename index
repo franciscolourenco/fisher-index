@@ -22,16 +22,10 @@ Quickly go back to a parent directory
 cd bd path
 0rax
 
-bira
-https://github.com/oh-my-fish/theme-bira
-Informative git theme based in bira
-prompt bira ruby
-bpinto
-
 bobthefish
 https://github.com/oh-my-fish/theme-bobthefish
 Powerline, Git prompt optimized for awesome
-prompt powerline
+prompt powerline dark
 bobthecow
 
 chain
@@ -40,28 +34,22 @@ Classy theme composed of information chains
 prompt chain
 coderstephen
 
-clownfish
-https://github.com/dorentus/clownfish
-Git-aware prompt with a clownfish
-prompt multiline lolcat
-dorentus
-
 cmorrell
 https://github.com/oh-my-fish/theme-cmorrell.com
-Flat, Git, left and right prompt
-prompt flat right
+Semi powerline, flat, left and right prompt
+prompt powerline flat dark
 inxilpro
 
 debug
 https://github.com/fishery/debug
 Conditional debug logger
-debug profile instrument time log
+debug profile instrument log
 bucaran
 
 eco
 https://github.com/fishery/eco
 Ecological, ecominimal prompt
-eco minimal simple
+eco minimal simple dark
 bucaran
 
 errno
@@ -84,8 +72,8 @@ bucaran
 
 flash
 https://github.com/fishery/flash
-Flash-inspired, thunder prompt
-prompt flash superhero thunder
+Thunder, rad prompt inspired by the Flash
+prompt powerline dc thunder
 bucaran
 
 fzf
@@ -157,55 +145,49 @@ tannhuber
 hash
 https://github.com/oh-my-fish/plugin-hash
 Compute string digests
-digest md5 sha1 hash checksum
+digest md5 sha1 hash
 coderstephen
 
 hulk
 https://github.com/fishery/hulk
-Hulk-inspired, powerful green prompt
-prompt hulk superhero
+Strong power prompt inspired by the Hulk
+prompt powerline marvel dark
 bucaran
 
 humanize_time
 https://github.com/fishery/humanize_time
-Humanize a time interval for display.
+Humanize a time interval for display
 time util human
 bucaran
 
 joker
 https://github.com/fishery/joker
 Crazy prompt inspired by the Joker
-prompt powerline joker batman
+prompt powerline batman dark
 bucaran
 
 lambda
 https://github.com/hasanozgan/theme-lambda
 Multiline, git-ware lambda prompt
-prompt multiline lambda
+prompt multiline lambda dark
 hasanozgan
 
 lolfish
 https://github.com/er0/lolfish
 Tmux-aware, rainbow gradient prompt
-prompt tmux colorful
+prompt tmux rainbow
 er0
-
-mars
-https://github.com/oh-my-fish/theme-mars
-Git-aware, simple martian theme
-prompt mars
-mvader
 
 masenko
 https://github.com/fishery/masenko
 Namekian prompt inspired by the demon blast
-prompt powerline dbz
+prompt powerline dbz dark
 bucaran
 
 narwhal
 https://github.com/0rax/narwhal
 Simple docker wrapper
-docker docker-machine docker-compose
+docker machine compose
 0rax
 
 pure
@@ -238,16 +220,16 @@ The original zsh theme ported to fish
 prompt robbyrussell simple
 robbyrussell
 
-scaffold
-https://github.com/fishery/scaffold
-Scaffold out a fish plugin
-create plugin generator boilerplate
+new
+https://github.com/fishery/new
+Create a plugin from a template
+create generator template
 bucaran
 
 scorphish
 https://github.com/oh-my-fish/theme-scorphish
 Hot, angle bracket-based multiline prompt
-prompt multiline
+prompt multiline dark
 scorphus
 
 segment
@@ -259,19 +241,19 @@ bucaran
 sektor
 https://github.com/fishery/sektor
 Mortal prompt inspired by Sektor
-prompt mortal-kombat powerline
+prompt mk powerline dark
 bucaran
 
 shark
 https://github.com/fishery/shark
-Fantastic Sparkline Generator
+Fantastic sparkline generator
 chart sparkline graph
 bucaran
 
 shellder
 https://github.com/simnalamburt/shellder
 Powerline prompt optimized for speed
-prompt powerline speed
+prompt powerline dark
 simnalamburt
 
 spin
@@ -325,11 +307,5 @@ jethrokuan
 zealot
 https://github.com/fishery/zealot
 Prompt inspired by the Protoss
-prompt powerline starcraft
+prompt powerline starcraft tech dark
 bucaran
-
-zish
-https://github.com/oh-my-fish/theme-zish
-Zhishen Wen's simple fun theme
-prompt zish
-wzhishen
