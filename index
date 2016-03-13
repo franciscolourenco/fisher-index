@@ -25,7 +25,7 @@ cd bd path
 bira
 https://github.com/oh-my-fish/theme-bira
 Informative git theme based in bira
-prompt git bira ruby
+prompt bira ruby
 bpinto
 
 bobthefish
@@ -181,7 +181,7 @@ bucaran
 lambda
 https://github.com/hasanozgan/theme-lambda
 Multiline, git-ware lambda prompt
-prompt multiline git lambda
+prompt multiline lambda
 hasanozgan
 
 lolfish
@@ -247,7 +247,7 @@ bucaran
 scorphish
 https://github.com/oh-my-fish/theme-scorphish
 Hot, angle bracket-based multiline prompt
-prompt multiline git
+prompt multiline
 scorphus
 
 segment
