@@ -58,6 +58,12 @@ POSIX error code/string translator
 posix error code
 derekstavis
 
+expand
+https://github.com/oh-my-fish/plugin-expand
+Real-time command line word expansion
+abbr expansion cli
+coderstephen
+
 fasd
 https://github.com/oh-my-fish/plugin-fasd
 fasd integration for fish
