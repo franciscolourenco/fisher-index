@@ -130,6 +130,12 @@ Test if there are changes in the working tree
 git status info function
 bucaran
 
+git_is_detached_head
+https://github.com/fishery/git_is_detached_head
+Test if the repository is in a detached HEAD state
+eco minimal gray
+bucaran
+
 git_util
 https://github.com/fishery/git_util
 Collection of git utilities
@@ -190,6 +196,12 @@ Simple docker wrapper
 docker machine compose
 0rax
 
+new
+https://github.com/fishery/new
+Create a plugin from a template
+create generator template
+bucaran
+
 pure
 https://github.com/rafaelrinaldi/pure
 Pretty, minimal and fast prompt
@@ -219,12 +231,6 @@ https://github.com/oh-my-fish/theme-robbyrussell
 The original zsh theme ported to fish
 prompt robbyrussell simple
 robbyrussell
-
-new
-https://github.com/fishery/new
-Create a plugin from a template
-create generator template
-bucaran
 
 scorphish
 https://github.com/oh-my-fish/theme-scorphish
