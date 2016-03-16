@@ -94,46 +94,46 @@ Press any key to continue
 prompt read line cli key
 bucaran
 
-git-branch-name
-https://github.com/fishery/git-branch-name
+git_branch_name
+https://github.com/fishery/git_branch_name
 Get the name of the current Git branch
-git status info branch
+git status util branch
 bucaran
 
-git-is-dirty
-https://github.com/fishery/git-is-dirty
+git_is_dirty
+https://github.com/fishery/git_is_dirty
 Test if there are changes not staged for commit
-git status info function dirty
+git status util dirty
 bucaran
 
-git-is-empty
-https://github.com/fishery/git-is-empty
-Test if a repository is empty
+git_is_empty
+https://github.com/fishery/git_is_empty
+Test if a repo is empty
 git status util
 bucaran
 
-git-is-repo
-https://github.com/fishery/git-is-repo
+git_is_repo
+https://github.com/fishery/git_is_repo
 Test if the current directory is a Git repo
-git status info function
+git status util
 bucaran
 
-git-is-staged
-https://github.com/fishery/git-is-staged
+git_is_staged
+https://github.com/fishery/git_is_staged
 Test if there are changes staged for commit
-git status info function stage
+git status util stage
 bucaran
 
-git-is-stashed
-https://github.com/fishery/git-is-stashed
+git_is_stashed
+https://github.com/fishery/git_is_stashed
 Test if there are changes in the stash
-git status info function stash
+git status util stash
 bucaran
 
-git-is-touched
-https://github.com/fishery/git-is-touched
+git_is_touched
+https://github.com/fishery/git_is_touched
 Test if there are changes in the working tree
-git status info function
+git status util
 bucaran
 
 git_is_detached_head
@@ -144,8 +144,8 @@ bucaran
 
 git_util
 https://github.com/fishery/git_util
-Collection of git utilities
-git status info
+Various Git utilities
+git status util
 bucaran
 
 grc
