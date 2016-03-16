@@ -40,12 +40,6 @@ Semi powerline, flat, left and right prompt
 prompt powerline flat dark
 inxilpro
 
-cwd_is_home
-https://github.com/fishery/cwd_is_home
-Test if the current directory is HOME
-cwd util
-bucaran
-
 debug
 https://github.com/fishery/debug
 Conditional debug logger
