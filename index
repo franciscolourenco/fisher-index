@@ -40,6 +40,12 @@ Semi powerline, flat, left and right prompt
 prompt powerline flat dark
 inxilpro
 
+cwd_is_home
+https://github.com/fishery/cwd_is_home
+Test if the current directory is HOME
+cwd util
+bucaran
+
 debug
 https://github.com/fishery/debug
 Conditional debug logger
@@ -100,6 +106,12 @@ Get the name of the current Git branch
 git status util branch
 bucaran
 
+git_is_detached_head
+https://github.com/fishery/git_is_detached_head
+Test if the repository is in a detached HEAD state
+eco minimal gray
+bucaran
+
 git_is_dirty
 https://github.com/fishery/git_is_dirty
 Test if there are changes not staged for commit
@@ -111,12 +123,6 @@ https://github.com/fishery/git_is_empty
 Test if a repo is empty
 git status util
 bucaran
-
-git_porcelain
-https://github.com/jethrokuan/git_porcelain
-Parsed git status (use with prompts)
-git porcelain prompt-util
-jethrokuan
 
 git_is_repo
 https://github.com/fishery/git_is_repo
@@ -142,11 +148,11 @@ Test if there are changes in the working tree
 git status util
 bucaran
 
-git_is_detached_head
-https://github.com/fishery/git_is_detached_head
-Test if the repository is in a detached HEAD state
-eco minimal gray
-bucaran
+git_porcelain
+https://github.com/jethrokuan/git_porcelain
+Parsed git status (use with prompts)
+git porcelain prompt-util
+jethrokuan
 
 git_util
 https://github.com/fishery/git_util
