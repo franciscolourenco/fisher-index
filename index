@@ -112,6 +112,12 @@ Test if a repo is empty
 git status util
 bucaran
 
+git_porcelain
+https://github.com/jethrokuan/git_porcelain
+Parsed git status (use with prompts)
+git porcelain prompt-util
+jethrokuan
+
 git_is_repo
 https://github.com/fishery/git_is_repo
 Test if the current directory is a Git repo
