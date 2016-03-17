@@ -274,6 +274,12 @@ Powerline prompt optimized for speed
 prompt powerline dark
 simnalamburt
 
+ssh-agent
+https://github.com/herrbischoff/fish-ssh-agent
+Autostart ssh-agent and add identities
+autostart ssh-agent
+herrbischoff
+
 spin
 https://github.com/fishery/spin
 Spin a background job
