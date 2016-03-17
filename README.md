@@ -1,3 +1,4 @@
+[![Build Status][travis-badge]][travis-link]
 [![Slack Room][slack-badge]][slack-link]
 
 # [Fisherman][fisherman] Index
@@ -43,7 +44,8 @@ All the plugins listed in this index are property of their respective owners. Fo
 
 [slack-link]:   https://fisherman-wharf.herokuapp.com/
 [slack-badge]:  https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
-
+[travis-link]:  https://travis-ci.org/fisherman/fisher-index
+[travis-badge]:  https://travis-ci.org/fisherman/fisher-index.svg?branch=master
 <!-- Links -->
 
 [fisherman]:        https://github.com/fisherman/fisherman
