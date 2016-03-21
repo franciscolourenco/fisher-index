@@ -166,6 +166,12 @@ Compute string digests
 digest md5 sha1 hash
 coderstephen
 
+host_info
+https://github.com/fishery/host_info
+Get user and host / domain information
+host user util
+bucaran
+
 hulk
 https://github.com/fishery/hulk
 Strong power prompt inspired by the Hulk
