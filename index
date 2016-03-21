@@ -202,6 +202,12 @@ Multiline, git-ware lambda prompt
 prompt multiline lambda dark
 hasanozgan
 
+last_job_id
+https://github.com/fishery/last_job_id
+Get the id of the last job to be started
+job util
+bucaran
+
 lolfish
 https://github.com/er0/lolfish
 Tmux-aware, rainbow gradient prompt
