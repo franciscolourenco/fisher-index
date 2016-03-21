@@ -220,6 +220,12 @@ Pretty, minimal and fast prompt
 prompt minimal simple
 rafaelrinaldi
 
+pwd_info
+https://github.com/fishery/pwd_info
+Print info about the current working directory
+pwd util
+bucaran
+
 pyenv
 https://github.com/daenney/fish-pyenv
 Pyenv support plugin
@@ -274,17 +280,17 @@ Powerline prompt optimized for speed
 prompt powerline dark
 simnalamburt
 
-ssh-agent
-https://github.com/herrbischoff/fish-ssh-agent
-Autostart ssh-agent and add identities
-autostart ssh-agent
-herrbischoff
-
 spin
 https://github.com/fishery/spin
 Spin a background job
 spinner progress wait job background
 bucaran
+
+ssh-agent
+https://github.com/herrbischoff/fish-ssh-agent
+Autostart ssh-agent and add identities
+autostart ssh-agent
+herrbischoff
 
 submit
 https://github.com/fishery/submit
