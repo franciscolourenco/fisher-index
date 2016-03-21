@@ -148,6 +148,12 @@ Parsed git status (use with prompts)
 git porcelain prompt-util
 jethrokuan
 
+git_untracked_files
+https://github.com/fishery/git_untracked_files
+Get the number of untracked files in a repository
+git util
+sotayamashita
+
 git_util
 https://github.com/fishery/git_util
 Various Git utilities
