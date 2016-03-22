@@ -244,6 +244,12 @@ Print info about the current working directory
 pwd util
 bucaran
 
+pwd_is_home
+https://github.com/fishery/pwd_is_home
+Test if cwd equals or is a sub directory of HOME
+cwd util
+bucaran
+
 pyenv
 https://github.com/daenney/fish-pyenv
 Pyenv support plugin
