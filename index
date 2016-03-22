@@ -90,8 +90,8 @@ jethrokuan
 
 get
 https://github.com/fishery/get
-Press any key to continue
-prompt read line cli key
+Interactive prompt reader
+prompt read input
 bucaran
 
 git_branch_name
@@ -139,13 +139,13 @@ bucaran
 git_is_touched
 https://github.com/fishery/git_is_touched
 Test if there are changes in the working tree
-git status util
+git status util porcelain
 bucaran
 
 git_porcelain
 https://github.com/jethrokuan/git_porcelain
 Parsed git status (use with prompts)
-git porcelain prompt-util
+git status util
 jethrokuan
 
 git_untracked_files
@@ -181,11 +181,11 @@ bucaran
 hulk
 https://github.com/fishery/hulk
 Strong power prompt inspired by the Hulk
-prompt powerline marvel dark
+prompt powerline dark
 bucaran
 
-humanize_time
-https://github.com/fishery/humanize_time
+humanize_duration
+https://github.com/fishery/humanize_duration
 Humanize a time interval for display
 time util human
 bucaran
@@ -241,7 +241,7 @@ rafaelrinaldi
 pwd_info
 https://github.com/fishery/pwd_info
 Print info about the current working directory
-pwd util
+cwd util
 bucaran
 
 pwd_is_home
@@ -307,7 +307,7 @@ simnalamburt
 spin
 https://github.com/fishery/spin
 Spin a background job
-spinner progress wait job background
+spinner progress job
 bucaran
 
 ssh-agent
@@ -343,13 +343,13 @@ scorphus
 title
 https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
-window terminal title titlebar
+window terminal title
 derekstavis
 
 vibrant
 https://github.com/derhuerst/vibrant
 Pretty, minimal, git-centric prompt
-prompt simple
+prompt minimal
 derhuerst
 
 z
