@@ -214,12 +214,6 @@ Tmux-aware, rainbow gradient prompt
 prompt tmux rainbow
 er0
 
-masenko
-https://github.com/fishery/masenko
-Namekian prompt inspired by the demon blast
-prompt powerline dbz dark
-bucaran
-
 narwhal
 https://github.com/0rax/narwhal
 Simple docker wrapper
@@ -360,6 +354,12 @@ jethrokuan
 
 zealot
 https://github.com/fishery/zealot
-Prompt inspired by the Protoss
-prompt powerline starcraft tech dark
+Powerline prompt inspired by the Protoss race
+prompt powerline starcraft dark
+bucaran
+
+zerg
+https://github.com/fishery/zerg
+Powerline prompt inspired by the Zerg race
+prompt powerline starcraft dark
 bucaran
