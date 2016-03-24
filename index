@@ -103,7 +103,7 @@ bucaran
 git_is_detached_head
 https://github.com/fishery/git_is_detached_head
 Test if the repository is in a detached HEAD state
-eco minimal gray
+git status util branch
 bucaran
 
 git_is_dirty
