@@ -40,6 +40,12 @@ Semi powerline, flat, left and right prompt
 prompt powerline flat dark
 inxilpro
 
+composer
+https://github.com/oh-my-fish/plugin-composer
+Composer support plugin
+php composer
+natrim
+
 debug
 https://github.com/fishery/debug
 Conditional debug logger
