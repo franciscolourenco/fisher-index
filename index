@@ -328,6 +328,12 @@ Submit a plugin to the index
 index plugin register
 bucaran
 
+superman
+https://github.com/fishery/superman
+Powerline prompt based on Superman
+prompt powerline superman
+bucaran
+
 tab
 https://github.com/oh-my-fish/plugin-tab
 Open new tabs from the command line
