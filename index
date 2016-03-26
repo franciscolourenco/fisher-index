@@ -358,6 +358,12 @@ Change the tab/window title string
 window terminal title
 derekstavis
 
+upload
+https://github.com/aristidesfl/fish-upload
+Upload files to transfer.sh file sharing service
+upload files transfer.sh share unlimited
+aristidesfl
+
 vibrant
 https://github.com/derhuerst/vibrant
 Pretty, minimal, git-centric prompt
