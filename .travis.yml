@@ -1,0 +1,12 @@
+language: go
+
+go:
+  - tip
+
+sudo: false
+
+install:
+  - go get -d -v github.com/fisherman/index-ci
+  - go install github.com/fisherman/index-ci
+script:
+  - $GOPATH/bin/index-ci ./index
