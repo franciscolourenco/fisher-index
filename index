@@ -317,10 +317,10 @@ prompt robbyrussell simple
 robbyrussell
 
 rvm
-https://github.com/oh-my-fish/plugin-rvm
+https://github.com/fisherman/rvm
 Ruby version manager fish support
 ruby rvm
-bpinto
+ismk
 
 segment
 https://github.com/fisherman/segment
