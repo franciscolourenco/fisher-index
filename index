@@ -412,6 +412,12 @@ thefuck integration for fish
 cli thefuck correct
 scorphus
 
+tio
+https://github.com/fisherman/tio
+Create a git.io/slug from a GitHub url
+url gitio tiny
+bucaran
+
 title
 https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
