@@ -16,6 +16,12 @@ Clean autojump loading support
 j cd
 jethrokuan
 
+await
+https://github.com/fisherman/await
+Wait for background jobs
+jobs wait spin
+bucaran
+
 bass
 https://github.com/edc/bass
 Compatibility layer for bash utilities
