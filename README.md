@@ -1,9 +1,9 @@
 [![Build Status][travis-badge]][travis-link]
 [![Slack Room][slack-badge]][slack-link]
 
-# Fisherman index
+# Index
 
-The fisherman index is a file that list plugins, each consisting of the following fields:
+The fisherman index is a text file that list plugins, each consisting of the following fields:
 
 ```
 name
@@ -23,7 +23,9 @@ test tap harness runner
 bucaran
 ```
 
-## Submit
+This index feeds the [online] search and is available to plugins for crawling purposes.
+
+## Adding plugins to this list
 
 Create a pull request in this repository.
 
@@ -46,3 +48,4 @@ All the plugins listed in this index are property of their respective owners. Fo
 [travis-badge]: https://img.shields.io/travis/fisherman/index.svg?style=flat-square
 [fisherman]: https://github.com/fisherman/fisherman
 [submit]: https://github.com/fisherman/submit
+[online]: http://fisherman.sh
