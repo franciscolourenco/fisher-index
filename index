@@ -11,7 +11,7 @@ env autoenv cd
 hutenosa
 
 autojump
-https://github.com/jethrokuan/fish-autojump
+https://github.com/fisherman/autojump
 Clean autojump loading support
 j cd
 jethrokuan
@@ -173,7 +173,7 @@ git status util
 bucaran
 
 git_porcelain
-https://github.com/jethrokuan/git_porcelain
+https://github.com/fisherman/git_porcelain
 Parse git status --porcelain output
 git status util
 jethrokuan
