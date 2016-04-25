@@ -196,6 +196,12 @@ Various Git utilities
 git status util
 bucaran
 
+gitignore
+Create .gitignore files from a gitignore.io template
+https://github.com/fisherman/gitignore
+git gitignore template
+sijad
+
 grc
 https://github.com/oh-my-fish/plugin-grc
 grc colorizer for various commands
