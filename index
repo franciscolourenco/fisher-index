@@ -197,8 +197,8 @@ git status util
 bucaran
 
 gitignore
-Create .gitignore files from a gitignore.io template
 https://github.com/fisherman/gitignore
+Create .gitignore files from a gitignore.io template
 git gitignore template
 sijad
 
