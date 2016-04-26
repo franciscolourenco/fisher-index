@@ -268,6 +268,12 @@ Tmux-aware, rainbow gradient prompt
 prompt tmux rainbow
 er0
 
+menu
+https://github.com/fisherman/menu
+Create interactive prompt menus
+cli menu prompt
+bucaran
+
 narwhal
 https://github.com/0rax/narwhal
 Simple docker wrapper
