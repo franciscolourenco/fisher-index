@@ -106,6 +106,12 @@ fasd integration for fish
 fasd jump cd z
 simnalamburt
 
+fin
+https://github.com/fisherman/fin
+node.js version manager
+node js nvm
+bucaran
+
 fishtape
 https://github.com/fisherman/fishtape
 TAP producing test runner
