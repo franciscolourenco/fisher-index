@@ -448,6 +448,12 @@ Pretty, minimal, git-centric prompt
 prompt minimal
 derhuerst
 
+yourls
+https://github.com/jethrokuan/fish-yourls
+CLI for YOURLS
+yourls
+jethrokuan
+
 z
 https://github.com/fisherman/z
 Pure-fish z directory jumping
