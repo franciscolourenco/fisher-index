@@ -298,6 +298,12 @@ Create a plugin from a template
 create generator template
 bucaran
 
+pisces
+https://github.com/laughedelic/pisces
+Smartquotes & other pair-symbols autocompletion
+input keybindings
+laughedelic
+
 plain
 https://github.com/changyuheng/theme-plain
 Plain and simple prompt with a fish
