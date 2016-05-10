@@ -280,6 +280,12 @@ Create interactive prompt menus
 cli menu prompt
 bucaran
 
+mokou
+https://github.com/tentakel/mokou
+dumb fish prompt
+prompt simple
+tentakel
+
 narwhal
 https://github.com/0rax/narwhal
 Simple docker wrapper
