@@ -483,3 +483,9 @@ https://github.com/fisherman/z
 Pure-fish z directory jumping
 z cd jump
 jethrokuan
+
+cache-file
+https://github.com/nyarly/fish-cache-file
+Utility functions to cache command results into a file
+cache completion utility
+nyarly
