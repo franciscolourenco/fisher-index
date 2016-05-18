@@ -280,6 +280,12 @@ Tmux-aware, rainbow gradient prompt
 prompt tmux rainbow
 er0
 
+lookup
+https://github.com/nyarly/fish-lookup
+Find a parent directory that contains a file (a la git and .git/)
+git function lookup
+nyarly
+
 menu
 https://github.com/fisherman/menu
 Create interactive prompt menus
