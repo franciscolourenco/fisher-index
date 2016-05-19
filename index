@@ -352,6 +352,12 @@ pyenv support plugin
 python pyenv
 daenney
 
+rake-complete
+https://github.com/nyarly/fish-rake-complete
+Fast completion for rake file targets
+ruby rake complete
+nyarly
+
 rbenv
 https://github.com/fisherman/rbenv
 rbenv support plugin
