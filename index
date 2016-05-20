@@ -1,3 +1,9 @@
+anicode
+https://github.com/fisherman/anicode
+Unicode database query CLI
+unicode search
+markcial
+
 aquaman
 https://github.com/MadcapJake/aquaman
 Trident, deep prompt inspired by Aquaman
@@ -45,6 +51,12 @@ https://github.com/oh-my-fish/theme-chain
 Classy theme composed of information chains
 prompt chain
 coderstephen
+
+choices
+https://github.com/fisherman/choices
+Configurable multiline choice selector
+prompt choices ui
+markcial
 
 cmorrell.com
 https://github.com/oh-my-fish/theme-cmorrell.com
@@ -292,6 +304,12 @@ Create interactive prompt menus
 cli menu prompt
 bucaran
 
+mock
+https://github.com/fisherman/mock
+Mock library for easier testing
+mock test
+markcial
+
 mokou
 https://github.com/tentakel/mokou
 dumb fish prompt
@@ -477,6 +495,12 @@ https://github.com/oh-my-fish/plugin-title
 Change the tab/window title string
 window terminal title
 derekstavis
+
+upto
+https://github.com/fisherman/upto
+Change to a parent directory by its name
+navigation cd jump
+markcial
 
 vibrant
 https://github.com/derhuerst/vibrant
