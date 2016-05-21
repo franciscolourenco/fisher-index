@@ -28,6 +28,12 @@ Wait for background jobs
 jobs wait spin
 bucaran
 
+bang-bang
+https://github.com/nyarly/fish-bang-bang
+A crutch for Bash refuges
+history expansion key_binding
+nyarly
+
 bass
 https://github.com/edc/bass
 Compatibility layer for bash utilities
