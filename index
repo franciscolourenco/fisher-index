@@ -160,65 +160,11 @@ Interactive prompt reader
 prompt read input
 bucaran
 
-git_branch_name
-https://github.com/fisherman/git_branch_name
-Get the name of the current Git branch
-git status util
-bucaran
-
-git_is_detached_head
-https://github.com/fisherman/git_is_detached_head
-Test if the repository is in a detached HEAD state
-git status util
-bucaran
-
-git_is_dirty
-https://github.com/fisherman/git_is_dirty
-Test if there are changes not staged for commit
-git status util
-bucaran
-
-git_is_empty
-https://github.com/fisherman/git_is_empty
-Test if a repo is empty
-git status util
-bucaran
-
-git_is_repo
-https://github.com/fisherman/git_is_repo
-Test if the current directory is a Git repo
-git status util
-bucaran
-
-git_is_staged
-https://github.com/fisherman/git_is_staged
-Test if there are changes staged for commit
-git status util
-bucaran
-
-git_is_stashed
-https://github.com/fisherman/git_is_stashed
-Test if there are changes in the stash
-git status util stash
-bucaran
-
-git_is_touched
-https://github.com/fisherman/git_is_touched
-Test if there are changes in the working tree
-git status util
-bucaran
-
 git_porcelain
 https://github.com/fisherman/git_porcelain
 Parse git status --porcelain output
 git status util
 jethrokuan
-
-git_untracked_files
-https://github.com/fisherman/git_untracked_files
-Get the number of untracked files in a repository
-git util status
-sotayamashita
 
 git_util
 https://github.com/fisherman/git_util
