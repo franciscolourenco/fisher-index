@@ -124,10 +124,16 @@ fasd integration for fish
 fasd jump cd z
 simnalamburt
 
-fin
-https://github.com/fisherman/fin
+fnm
+https://github.com/fisherman/fnm
 node.js version manager
 node js nvm
+bucaran
+
+fin
+https://github.com/fisherman/fin
+Tiny plugin manager for fish
+fish plugin manager
 bucaran
 
 fishface
