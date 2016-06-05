@@ -136,6 +136,12 @@ Tiny plugin manager for fish
 fish plugin manager
 bucaran
 
+fish_logo
+https://github.com/laughedelic/fish_logo
+Colorful fish ASCII-art logo
+color styles fun fish
+laughedelic
+
 fishface
 https://github.com/randomdude999/theme-fishface
 Very simple joke prompt
