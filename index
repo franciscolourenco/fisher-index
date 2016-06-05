@@ -52,6 +52,12 @@ Powerline, Git prompt optimized for awesome
 prompt powerline
 bobthecow
 
+cache-file
+https://github.com/nyarly/fish-cache-file
+Utility functions to cache command results into a file
+cache completion utility
+nyarly
+
 chain
 https://github.com/oh-my-fish/theme-chain
 Classy theme composed of information chains
@@ -124,12 +130,6 @@ fasd integration for fish
 fasd jump cd z
 simnalamburt
 
-fnm
-https://github.com/fisherman/fnm
-node.js version manager
-node js nvm
-bucaran
-
 fin
 https://github.com/fisherman/fin
 Tiny plugin manager for fish
@@ -152,6 +152,12 @@ flash
 https://github.com/fisherman/flash
 Thunder, rad prompt inspired by the Flash
 prompt powerline dc
+bucaran
+
+fnm
+https://github.com/fisherman/fnm
+node.js version manager
+node js nvm
 bucaran
 
 fzf
@@ -394,6 +400,12 @@ Autostart ssh-agent and add identities
 autostart ssh-agent
 herrbischoff
 
+ssh-term-helper
+https://github.com/wk/plugin-ssh-term-helper
+Overload the ssh command to set a conservative $TERM value first
+ssh term
+wk
+
 stark
 https://github.com/fisherman/stark
 Powerline prompt based on Iron Man
@@ -477,9 +489,3 @@ https://github.com/fisherman/z
 Pure-fish z directory jumping
 z cd jump
 jethrokuan
-
-cache-file
-https://github.com/nyarly/fish-cache-file
-Utility functions to cache command results into a file
-cache completion utility
-nyarly
