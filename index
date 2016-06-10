@@ -286,6 +286,12 @@ dumb fish prompt
 prompt simple
 tentakel
 
+mp3down
+https://github.com/c0b41/mp3down
+YouTube video downloader wrapper for fish
+youtube mp3 file youtube-dl
+c0b41
+
 narwhal
 https://github.com/0rax/narwhal
 Simple docker wrapper
