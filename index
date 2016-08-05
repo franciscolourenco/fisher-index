@@ -94,6 +94,12 @@ Classical prompt inspired by little dartfish
 prompt classical fish
 bucaran
 
+dbg
+https://github.com/fisherman/dbg
+minimal debugger
+debug log minimal
+fene
+
 debug
 https://github.com/fisherman/debug
 Conditional debug logger
