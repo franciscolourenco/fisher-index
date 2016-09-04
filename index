@@ -202,6 +202,12 @@ Create .gitignore files from a gitignore.io template
 git gitignore template
 sijad
 
+gitnow
+https://github.com/joseluisq/gitnow
+Simple and fast commands for your git workflow
+git push pull util
+joseluisq
+
 grc
 https://github.com/oh-my-fish/plugin-grc
 grc colorizer for various commands
