@@ -106,6 +106,12 @@ Conditional debug logger
 debug instrument log
 bucaran
 
+done
+https://github.com/fisherman/done
+Automatically get notified when long processes are finished
+notification long processes finish
+aristidesfl
+
 eco
 https://github.com/fisherman/eco
 Eco-minimal gray scale prompt
